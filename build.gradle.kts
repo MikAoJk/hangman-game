@@ -1,7 +1,7 @@
 group = "io.github.mikaojk"
 version = "1.0.0"
 
-val javaVersion = 21
+val javaVersion = 25
 
 plugins {
     alias(libs.plugins.kotlin.jvm)
