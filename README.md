@@ -1,5 +1,5 @@
-# treasure-hunt
-Simple implementation of "treasure-hunt" in kotlin as a console game
+# Hangman
+Simple implementation of "Hangman" in kotlin as a console game
 
 ## Technologies used
 * JDK 25
